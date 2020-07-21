@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/warofplanes.jpg</file>
+        <file>images/warofplanesicon.ico</file>
+        <file>images/welcome.png</file>
+        <file>images/welcome_new.png</file>
+        <file>music/starwars.mp3</file>
+        <file>music/sound1.wav</file>
+        <file>music/sound2.wav</file>
+        <file>music/sound3.wav</file>
+        <file>images/explosion.BMP</file>
+        <file>images/explosion2.BMP</file>
+        <file>images/explosion.png</file>
+        <file>images/bossbullet.png</file>
+        <file>images/enemybullet.png</file>
+        <file>images/boss.png</file>
+        <file>images/enemyplane.png</file>
+        <file>images/lifesupply.png</file>
+        <file>images/mybullet.png</file>
+        <file>images/myplane.png</file>
+    </qresource>
+</RCC>
